@@ -8,5 +8,20 @@ p {
     font-size: 30px;
 }
 body {
-    background-color:rgb(37, 33, 68);
+    background-color:rgb(43, 39, 80);
+}
+
+.t_alunos {
+    background-color:rgb(101, 54, 116);
+    display: flex;
+}
+
+.alunos {
+    background-color: rgb(84, 68, 128);
+    float: left;
+}
+
+.professores {
+    background-color: rgb(62, 42, 82);
+    display: inline-block
 }
